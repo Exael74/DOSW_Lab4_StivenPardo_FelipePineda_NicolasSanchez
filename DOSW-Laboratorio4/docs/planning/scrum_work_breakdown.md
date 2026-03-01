@@ -21,7 +21,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Registro de Cuenta |
 | **Descripción** | Como Asesor, quiero registrar una cuenta nueva para vincular clientes al sistema. |
 | **Prioridad** | Alta |
-| **Estimación** | |
+| **Estimación** | 5 Puntos de historia |
 
 #### HU-02
 | Campo | Descripción |
@@ -30,7 +30,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Consulta de Saldo |
 | **Descripción** | Como Cliente, quiero consultar mi saldo para conocer mi estado financiero actual. |
 | **Prioridad** | Media |
-| **Estimación** | |
+| **Estimación** | 3 Puntos de historia |
 
 #### HU-03
 | Campo | Descripción |
@@ -39,7 +39,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Depósito PSE |
 | **Descripción** | Como Usuario, quiero realizar un depósito vía PSE para recargar fondos de forma segura. |
 | **Prioridad** | Alta |
-| **Estimación** | |
+| **Estimación** | 8 Puntos de historia |
 
 #### HU-04
 | Campo | Descripción |
@@ -48,7 +48,9 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Inactivar Cuenta |
 | **Descripción** | Como Cliente, quiero inactivar mi cuenta para dejar de usar los servicios temporalmente. |
 | **Prioridad** | Baja |
-| **Estimación** | |
+| **Estimación** | 2 Puntos de historia |
+
+*(Nota sobre el video de Planning Poker: El equipo hace uso del "Poder de no hacer el video" otorgado previamente durante la clase, por lo que este requisito se encuentra validado y eximido de entrega).*
 
 ### 3. Tareas:
 

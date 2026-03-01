@@ -22,3 +22,5 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### Backlog:
 ![Backlog](../images/BackLog.png)
+
+![Backlog con Story Points](../images/BackLog%20con%20Story%20Points.png)
